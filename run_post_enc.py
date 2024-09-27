@@ -1,2 +1,2 @@
 import post_enc
-post_enc.commenter.inputs()
+post_enc.inputs()
