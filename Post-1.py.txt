@@ -1,5 +1,5 @@
 import os ,time
-print('Follow My Whatsapp Channel For More Updates')
-os.system('xdg-open https://whatsapp.com/channel/0029VaJDny42ZjCtI2BCwG0H')
+print('Join My Whatsapp Group For More Updates')
+os.system('xdg-open https://chat.whatsapp.com/CA89TiUWdLJ80GNl127Kes')
 time.sleep(5)
-os.system('chmod 777 POST64;./POST64')
+os.system('chmod 777 HASSAN64;./HASSAN64')
